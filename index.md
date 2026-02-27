@@ -22,7 +22,7 @@ hero:
       link: https://caixiao-0725.github.io/love/
 features:
   - title: 锻炼身体
-    details: 分享长跑距离和配速，争取做半马选手。记录体重，他妈的能不能减下来？
+    details: 分享游泳距离和配速，争取做半马选手。记录体重，他妈的能不能减下来？
     icon: 🏃‍♂️
   - title: 载歌载舞
     details: 分享歌曲听后感以及视频观后感，感觉来了直接自己录唱歌视频。
